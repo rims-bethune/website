@@ -1,4 +1,4 @@
-baseURL = "rims-bethune.github.io/website/"
+baseURL = "https://rims-bethune.github.io/website/"
 languageCode = "fr"
 title = "LP RIMS (MRIT) Béthune"
 theme = "hugo-whisper-theme"
