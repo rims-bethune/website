@@ -2,7 +2,7 @@
 title: 'Le contrat de professionnalisation'
 date: 2019-02-11T19:27:37+10:00
 draft: false
-weight: 1
+weight: 2
 ---
 
 En contrat de professionnalisation, l’étudiant a un statut salarié et il effectue la formation en alternance, avec des périodes en entreprise.  
