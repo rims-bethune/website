@@ -1,7 +1,7 @@
 ---
 title: 'Fonctionnement'
 date: 2018-11-28T15:14:39+10:00
-weight: 2
+weight: 8
 ---
    
 La formation a lieu à Béthune : à l'IUT pour les cours, TD et TP et au lycée Malraux pour les projets. Les horaires sont indiqués sur l'emploi du temps.  

@@ -1,7 +1,7 @@
 ---
 title: 'Contacts'
 date: 2018-11-28T15:14:39+10:00
-weight: 10
+weight: 100
 ---
  <!--more--> 
 
@@ -15,4 +15,4 @@ Caroline FOKS, caroline.foks@univ-artois.fr
 Ludivine CHIEUX ludivine.chieux@univ-artois.fr  
 
 **Secrétariat département R&T :**  
-secretariat-rt@univ-artois.fr  
+Adeline CORNET secretariat-rt@univ-artois.fr  
