@@ -33,7 +33,7 @@ summaryLength = 30
   [params.homepage_meta_tags]
     meta_description = "Hugo Whisper is a documentation theme built with Hugo."
     meta_og_title = "LP RIMS (MRIT) Béthune"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_creator = "@sohaibafifi"
 
   [params.logo]
       mobile = "/img/neticien_blue.png"
