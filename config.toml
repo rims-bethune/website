@@ -1,4 +1,4 @@
-baseURL = "https://lprims.univ-artois.fr/"
+baseURL = "http://lprims.univ-artois.fr/"
 languageCode = "fr"
 title = "LP RIMS (MRIT) Béthune"
 theme = "hugo-whisper-theme"
