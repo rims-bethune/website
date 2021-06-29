@@ -11,7 +11,7 @@ En contrat de professionnalisation, l’étudiant a un statut salarié et il eff
 
 Chaque étudiant peut chercher une entreprise acceptant de l'accueillir.  
 Après accord des responsables de la formation, les 10 premiers étudiants intéressés et retenus pourront suivre ce cursus.  
-Un contrat [CONVENTION DE FORMATION PROFESSIONNELLE](/lib/exe/fetch.php?media=convention.doc "convention.doc (67.5 KB)") sera ensuite établi entre l'entreprise et l'université.  
+Un contrat **CONVENTION DE FORMATION PROFESSIONNELLE** sera ensuite établi entre l'entreprise et l'université.  
 
 Conditions de mise en œuvre du contrat de professionnalisation :  
 - Durée de la formation à l'IUT : 450 H  
