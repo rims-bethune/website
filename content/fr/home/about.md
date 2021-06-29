@@ -16,4 +16,3 @@ La formation a lieu à Béthune : à l'IUT pour les cours, TD et TP et au lycée
 
 La durée du stage en LP RIMS est de 12 à 16 semaines conformément aux [textes en vigueur](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=1124B1181ADD3BEB9A12DE42C659F836.tpdila12v_2?idArticle=LEGIARTI000028556168&cidTexte=LEGITEXT000020811433&dateTexte=20160502 "https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=1124B1181ADD3BEB9A12DE42C659F836.tpdila12v_2?idArticle=LEGIARTI000028556168&cidTexte=LEGITEXT000020811433&dateTexte=20160502")  
 Ce stage est rémunéré conformément aux [textes en vigueur](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32131 "https://www.service-public.fr/professionnels-entreprises/vosdroits/F32131")  
-Il existe même un [simulateur de calcul de gratification minimum](https://www.service-public.fr/simulateur/calcul/gratification-stagiaire "https://www.service-public.fr/simulateur/calcul/gratification-stagiaire")  
