@@ -1,40 +1,44 @@
-baseURL = "http://lprims.univ-artois.fr/"
-languageCode = "fr"
-title = "LP RIMS (MRIT) Béthune"
-theme = "hugo-whisper-theme"
-
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
-
-# Controls how many words are printed in the content summary on the docs homepage.
-# See https://gohugo.io/content-management/summaries/
-summaryLength = 30
-
-[[menu.main]]
-    name = "Accueil"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Infos"
-    url = "/docs/"
-    weight = 2
+baseURL                          = "https://rt-bethune.github.io/website/"   # Your domain name. Must end with "/"
+theme                            = "introduction"
+DefaultContentLanguage           = "fr"                    # Default language for multilingual sites
 
 [params]
-  google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Lire les informations'
-  homepage_intro = 'La licence professionnelle Réseaux Informatiques, Mobilité, Sécurité'
+    themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
+    favicon                      = "/img/fav.ico"          # Path to favicon file
+    showRSSButton                = false                   # Show rss button in navigation
+    fadeIn                       = false                   # Turn on/off the fade-in effect
+    fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+    customCSS                    = ["rt-bethune.css"] 
+    [params.home]
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        showLatest               = false                   # Show latest blog post summary
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        allPostsArchiveFormat    = true                    # show all posts in an archive format
+        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        localTime                = true                    # Show your current local time in contact section
+        timeZone                 = "Europe/Paris"          # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat               = "fr-FR"                 # Language specific format to use
+
  
-  ## You can enable to add anchor links to header elements
-  # enable_anchor_link = true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
 
-  [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "LP RIMS (MRIT) Béthune"
-    meta_twitter_creator = "@sohaibafifi"
+# We only use tag as a taxonomies
+# You can add more by yourself
+[taxonomies]
+  tag = "tags"
+  series = "series"
 
-  [params.logo]
-      mobile = "/img/neticien_blue.png"
-      standard  = "/img/neticien_blue.png"
+[languages]
+    [languages.fr]
+        languageName     = "Français"
+        languageCode     = "fr-FR"
+        contentDir       = "content/fr"
+        weight           = 0
+        title            = "La licence professionnelle Réseaux Informatiques, Mobilité, Sécurité, IUT de Béthune"
+        [languages.fr.params]
+            description  = "La licence professionnelle Réseaux Informatiques, Mobilité, Sécurité, IUT de Béthune"   # Max 160 characters show in search results
+            footerText   = "Fait avec <i class=\"fa fa-heart\"></i> et <i class=\"fa fa-coffee\"></i>  par des enseignants du département"                      # Text to override default footer text (markdown allowed)

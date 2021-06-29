@@ -1,9 +1,8 @@
 ---
-title: 'Le contrat de professionnalisation'
-date: 2019-02-11T19:27:37+10:00
-draft: false
-weight: 5
+title: "Le contrat de professionnalisation"
+weight: 3
 ---
+
 
 En contrat de professionnalisation, l’étudiant a un statut salarié et il effectue la formation en alternance, avec des périodes en entreprise.  
 
@@ -18,8 +17,7 @@ Conditions de mise en œuvre du contrat de professionnalisation :
 - Durée de la formation à l'IUT : 450 H  
 - Coût horaire de la formation : 10€50  
 - Calendrier d'alternance (les périodes en entreprise sont en orange). Ce calendrier est susceptible de modifications durant l'année universitaire  
-[calendrier-2019-2020-lprims-v1.pdf](/lib/exe/fetch.php?media=calendrier-2019-2020-lprims-v1.pdf "calendrier-2019-2020-lprims-v1.pdf (69.2 KB)")
+[calendrier-2021-2022-lprims-v1.pdf](Calendrier-RIMS-21-22.pdf)
 
-[![](/lib/exe/fetch.php?w=750&tok=1cba23&media=calendrier-2020.png)](/lib/exe/detail.php?id=start&media=calendrier-2020.png "calendrier-2020.png")
 
  
